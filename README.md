@@ -50,3 +50,7 @@ Menu ketiga digunakan saat ingin keluar dari sistem
 
 
 
+Begitulah mini project saya terima kasih 😉
+
+# TUNGGU PERKEMBANGAN SISTEM SAYA DI MINPRO SELANJUTNYA BYE 🤩
+
