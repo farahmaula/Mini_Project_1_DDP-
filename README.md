@@ -8,7 +8,8 @@ Nama : Farah Hikmatul Maula
   Sistem Informasi (C) 2025 
 
 # Flowchart Catatan Kehadiran Mahasiswa
-![Untitled minpro 1Diagram](https://github.com/user-attachments/assets/8a73ab65-d57d-4559-94b7-ef0e6fe1b4c0)
+![flowchart mini project 1](https://github.com/user-attachments/assets/e7eaf175-f206-429e-b3e7-5e9d9036e10a)
+
 
 
 # Output Program
