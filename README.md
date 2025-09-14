@@ -34,7 +34,8 @@ Setelah mengisi data akan muncul pilihan status kehadiran untuk melakukan update
 Sebaliknya jika menjawab tidak maka sistem akan memberikan 2 pilihan yang harus dipilih, yaitu : 1. sakit, 2. izin dan mengeluarkan output yang dipilih kemudian kembali ke menu utama. Apabila mahasiswa memasukkan angka selain yang masuk di dalam pilihan maka sistem akan mengeluarkan output pemberitahuan bahwa tidak valid dan kembali di menu utama.
 <img width="1041" height="321" alt="image" src="https://github.com/user-attachments/assets/c94382e4-aa0a-4d05-951a-863b2869d142" />
 
-<img width="1088" height="226" alt="Screenshot 2025-09-14 181502" src="https://github.com/user-attachments/assets/32a91f0c-d70d-405a-91d6-0e250c341bdc" />
+<img width="938" height="322" alt="image" src="https://github.com/user-attachments/assets/2a21bbca-5ed7-43ea-88e6-71714163fe48" />
+
 
 # Menu Kedua
 Pada menu kedua, digunakan apabila mahasiswa hadir tetapi terlambat mengisi daftar kehadiran atau terlambat datang melebihi waktu yang diberikan yaitu batas jam 09.00 maka data mahasiswa tersebut akan dihapus. 
