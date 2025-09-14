@@ -1,7 +1,9 @@
-# Mini_Project_1_DDP-
+# Mini_Project_1_DDP
 Mini Project 1 DDP Tema Sistem Catatan Kehadiran Mahasiswa
   
 Nama : Farah Hikmatul Maula
 NIM  : 2509116099
 Sistem Informasi (C) 2025 
 
+#Flowchart Catatan Kehadiran Mahasiswa
+![Flowchart minpro1](https://github.com/user-attachments/assets/f238ebe1-83d7-465a-93ea-ce51ead0da48)
