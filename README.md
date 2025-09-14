@@ -31,8 +31,9 @@ Jika masuk di menu pertama maka mahasiswa akan memasukkan atau mengcreate data s
 Setelah mengisi data akan muncul pilihan status kehadiran untuk melakukan update kehadiran dengan pertanyaan "Apakah hadir?". Jika menjawab ya maka sistem akan mengeluarkan output "hadir" dan kembali di pilihan menu utama.
 <img width="938" height="338" alt="Screenshot 2025-09-14 180609" src="https://github.com/user-attachments/assets/32ba7326-2246-4059-880a-e3015ddfdacc" />
 
-Sebaliknya jika menjawab tidak maka sistem akan memberikan 2 pilihan yang harus dipilih, yaitu : 1. sakit, 2. izin dan mengeluarkan output yang dipilih. Apabila mahasiswa memasukkan angka selain yang masuk di dalam pilihan maka sistem akan mengeluarkan output pemberitahuan bahwa tidak valid dan kembali di menu utama.
-<img width="956" height="224" alt="Screenshot 2025-09-14 181344" src="https://github.com/user-attachments/assets/cf72745b-0519-4eaf-9cf4-d1b180b1faed" />
+Sebaliknya jika menjawab tidak maka sistem akan memberikan 2 pilihan yang harus dipilih, yaitu : 1. sakit, 2. izin dan mengeluarkan output yang dipilih kemudian kembali ke menu utama. Apabila mahasiswa memasukkan angka selain yang masuk di dalam pilihan maka sistem akan mengeluarkan output pemberitahuan bahwa tidak valid dan kembali di menu utama.
+<img width="1041" height="321" alt="image" src="https://github.com/user-attachments/assets/c94382e4-aa0a-4d05-951a-863b2869d142" />
+
 <img width="1088" height="226" alt="Screenshot 2025-09-14 181502" src="https://github.com/user-attachments/assets/32a91f0c-d70d-405a-91d6-0e250c341bdc" />
 
 # Menu Kedua
